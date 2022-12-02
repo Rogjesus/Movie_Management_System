@@ -1,6 +1,5 @@
 # Movie_Management_System
-# Movie_Management_System_In_JavaScript_With_Source_Code
-# Sistema-de-gerenciamento-de-filmes-em-JavaScript-com-c-digo-fonte
+
 Projeto: Sistema de gerenciamento de filmes em JavaScript com código-fonte.
 O sistema Movie Management é um projeto  desenvolvido usando JavaScript, CSS e HTML. Este projeto é um projeto de operação CRUD. 
  O usuário pode adicionar o número de detalhes do filme com classificações e você pode ver os detalhes armazenados no formulário de lista. O usuário pode excluir os itens do filme se quiser removê-los.  
